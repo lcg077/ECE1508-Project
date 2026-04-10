@@ -72,14 +72,14 @@ jupyter notebook ECE1508Project.ipynb
 
 ```
 ECE1508-Project/
-├── ECE1508Project.ipynb        # Main notebook
+├── ECE1508Project.ipynb        # Main notebook (seed 42, representative run)
 ├── ECE1508Dataset.zip          # METR-LA dataset
 ├── README.md
 ├── requirements.txt
 └── seeds/                      # Multi-seed experiment results
     ├── ECE1508ProjectSeed0.ipynb
     ├── ECE1508ProjectSeed7.ipynb
-    ├── ECE1508ProjectSeed42.ipynb
+    ├── ECE1508ProjectSeed42.ipynb   # Same as main notebook
     └── ECE1508ProjectSeed123.ipynb
 ```
 
